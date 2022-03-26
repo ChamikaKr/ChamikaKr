@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ChamikaKr
-- 👀 I’m interested in Programming & Designing
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Pentesting  & Designing
+- 🌱 I’m currently undergraduate at SLIIT 
+
 
 **Chamika kalhara**
 
